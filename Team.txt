@@ -1,2 +1,6 @@
 Umer is editting this.
+<<<<<<< HEAD
 Oscar is editing this. 
+=======
+Thomas is editting this.
+>>>>>>> 366759acde801a5e1f76c0d69b030435a45872a2
